@@ -9,7 +9,7 @@ Features:
     add task image
 
 * Edit Tasks: Tasks can be easily modified by clicking on the task text, making it a seamless process to update task information.
-    update task iumage
+    update task image
 
 * Mark Completed Tasks: Users can mark tasks as completed by clicking on a checkbox next to each task, providing a visual indication of completed tasks.
     completed task image
